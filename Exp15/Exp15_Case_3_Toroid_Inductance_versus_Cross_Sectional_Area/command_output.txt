@@ -1,0 +1,12 @@
+MATLAB R2024b result capture
+Exp15 Case 3 Toroid Inductance versus Cross Sectional Area
+
+Running Exp15_Case_3_Toroid_Inductance_versus_Cross_Sectional_Area.m
+Area (m^2)    Inductance (H)
+0.0001        0.00005
+0.0002        0.00010
+0.0003        0.00015
+0.0004        0.00020
+0.0005        0.00025
+
+RUN_STATUS: PASS

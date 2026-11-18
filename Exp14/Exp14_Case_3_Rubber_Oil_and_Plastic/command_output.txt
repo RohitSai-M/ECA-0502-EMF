@@ -1,0 +1,10 @@
+MATLAB R2024b result capture
+Exp14 Case 3 Rubber Oil and Plastic
+
+Running Exp14_Case_3_Rubber_Oil_and_Plastic.m
+Material    er       chi_e     P (C/m^2)
+Rubber        3.5       2.5     2.2135e-05
+Oil           2.2       1.2     1.0625e-05
+Plastic       2.3       1.3     1.1510e-05
+
+RUN_STATUS: PASS

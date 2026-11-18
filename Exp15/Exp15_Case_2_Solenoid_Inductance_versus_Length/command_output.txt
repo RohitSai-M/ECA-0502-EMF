@@ -1,0 +1,17 @@
+MATLAB R2024b result capture
+Exp15 Case 2 Solenoid Inductance versus Length
+
+Running Exp15_Case_2_Solenoid_Inductance_versus_Length.m
+Length (m)   Inductance (H)
+0.05         0.00063
+0.10         0.00031
+0.15         0.00021
+0.20         0.00016
+0.25         0.00013
+0.30         0.00010
+0.35         0.00009
+0.40         0.00008
+0.45         0.00007
+0.50         0.00006
+
+RUN_STATUS: PASS

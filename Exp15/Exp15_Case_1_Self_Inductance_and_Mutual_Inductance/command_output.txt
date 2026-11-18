@@ -1,0 +1,9 @@
+MATLAB R2024b result capture
+Exp15 Case 1 Self Inductance and Mutual Inductance
+
+Running Exp15_Case_1_Self_Inductance_and_Mutual_Inductance.m
+Self inductance = 25.6327 H
+Mutual inductance M12 = 2.1333 H
+Mutual inductance M21 = 0.0853 H
+
+RUN_STATUS: PASS

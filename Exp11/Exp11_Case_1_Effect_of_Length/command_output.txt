@@ -1,0 +1,7 @@
+MATLAB R2024b result capture
+Exp11 Case 1 Effect of Length
+
+Running Exp11_Case_1_Effect_of_Length.m
+B = 0.0628 T
+
+RUN_STATUS: PASS

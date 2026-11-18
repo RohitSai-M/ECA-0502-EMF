@@ -1,0 +1,8 @@
+MATLAB R2024b result capture
+Exp13 Case 1 mur 5 er 5
+
+Running Exp13_Case_1_mur_5_er_5.m
+Intrinsic impedance = 376.73 Ohms
+Phase velocity = 5.996e+07 m/s
+
+RUN_STATUS: PASS

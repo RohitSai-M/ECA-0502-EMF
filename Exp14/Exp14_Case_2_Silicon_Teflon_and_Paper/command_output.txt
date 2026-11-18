@@ -1,0 +1,10 @@
+MATLAB R2024b result capture
+Exp14 Case 2 Silicon Teflon and Paper
+
+Running Exp14_Case_2_Silicon_Teflon_and_Paper.m
+Material    er       chi_e     P (C/m^2)
+Silicon      11.7      10.7     9.4738e-05
+Teflon        2.1       1.1     9.7394e-06
+Paper         3.0       2.0     1.7708e-05
+
+RUN_STATUS: PASS

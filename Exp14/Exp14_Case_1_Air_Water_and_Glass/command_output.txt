@@ -1,0 +1,10 @@
+MATLAB R2024b result capture
+Exp14 Case 1 Air Water and Glass
+
+Running Exp14_Case_1_Air_Water_and_Glass.m
+Material    er       chi_e
+Air           1.0       0.0
+Water        80.0      79.0
+Glass         6.0       5.0
+
+RUN_STATUS: PASS

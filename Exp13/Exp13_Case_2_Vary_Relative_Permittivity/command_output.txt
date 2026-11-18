@@ -1,0 +1,12 @@
+MATLAB R2024b result capture
+Exp13 Case 2 Vary Relative Permittivity
+
+Running Exp13_Case_2_Vary_Relative_Permittivity.m
+er     eta(Ohms)   vp(m/s)
+1         376.73   2.998e+08
+2         266.39   2.120e+08
+4         188.37   1.499e+08
+6         153.80   1.224e+08
+8         133.20   1.060e+08
+
+RUN_STATUS: PASS

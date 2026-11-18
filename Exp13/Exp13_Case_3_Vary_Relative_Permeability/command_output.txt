@@ -1,0 +1,12 @@
+MATLAB R2024b result capture
+Exp13 Case 3 Vary Relative Permeability
+
+Running Exp13_Case_3_Vary_Relative_Permeability.m
+mur    eta(Ohms)   vp(m/s)
+1         266.39   2.120e+08
+2         376.73   1.499e+08
+3         461.40   1.224e+08
+4         532.78   1.060e+08
+5         595.67   9.480e+07
+
+RUN_STATUS: PASS

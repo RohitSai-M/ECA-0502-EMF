@@ -1,0 +1,12 @@
+MATLAB R2024b result capture
+Exp11 Case 3 Effect of Magnetic Field Intensity
+
+Running Exp11_Case_3_Effect_of_Magnetic_Field_Intensity.m
+H (A/m)       B (T)
+200           0.2513
+500           0.6283
+1000          1.2566
+1500          1.8850
+2000          2.5133
+
+RUN_STATUS: PASS

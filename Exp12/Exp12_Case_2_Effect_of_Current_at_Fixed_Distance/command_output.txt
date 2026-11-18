@@ -1,0 +1,12 @@
+MATLAB R2024b result capture
+Exp12 Case 2 Effect of Current at Fixed Distance
+
+Running Exp12_Case_2_Effect_of_Current_at_Fixed_Distance.m
+Current (A)   H (A/m)   E (V/m)
+5              0.3979   8987.7
+10             0.7958   8987.7
+20             1.5915   8987.7
+30             2.3873   8987.7
+50             3.9789   8987.7
+
+RUN_STATUS: PASS

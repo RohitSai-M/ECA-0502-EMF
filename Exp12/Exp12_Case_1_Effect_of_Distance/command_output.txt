@@ -1,0 +1,11 @@
+MATLAB R2024b result capture
+Exp12 Case 1 Effect of Distance
+
+Running Exp12_Case_1_Effect_of_Distance.m
+r(m)    H(A/m)      B(T)        E(V/m)
+0.1      15.9155  2.0000e-05     3595.10
+1         1.5915  2.0000e-06      359.51
+5         0.3183  4.0000e-07       71.90
+10        0.1592  2.0000e-07       35.95
+
+RUN_STATUS: PASS

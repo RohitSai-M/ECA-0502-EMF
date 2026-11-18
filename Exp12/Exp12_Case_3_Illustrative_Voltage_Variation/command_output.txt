@@ -1,0 +1,12 @@
+MATLAB R2024b result capture
+Exp12 Case 3 Illustrative Voltage Variation
+
+Running Exp12_Case_3_Illustrative_Voltage_Variation.m
+V (V)      E (V/m)       H (A/m)
+100        1.798e+11    1.5915
+300        5.393e+11    4.7746
+500        8.988e+11    7.9577
+700        1.258e+12    11.1408
+1000       1.798e+12    15.9155
+
+RUN_STATUS: PASS

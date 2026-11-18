@@ -1,0 +1,12 @@
+MATLAB R2024b result capture
+Exp11 Case 2 Effect of Width
+
+Running Exp11_Case_2_Effect_of_Width.m
+Width (m)     B (T)
+0.02          0.6283
+0.04          0.6283
+0.06          0.6283
+0.08          0.6283
+0.10          0.6283
+
+RUN_STATUS: PASS
