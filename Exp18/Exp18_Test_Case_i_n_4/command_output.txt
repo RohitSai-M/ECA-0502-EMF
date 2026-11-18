@@ -1,0 +1,9 @@
+MATLAB R2024b result capture
+Exp18 Test Case i n 4
+
+Running Exp18_Test_Case_i_n_4.m
+Left half-power angle  = -23.51 degrees
+Right half-power angle = 23.51 degrees
+HPBW                   = 47.02 degrees
+
+RUN_STATUS: PASS

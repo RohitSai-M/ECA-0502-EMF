@@ -1,0 +1,9 @@
+MATLAB R2024b result capture
+Exp19 Test Case ii Pin 100 W Prad 90 W
+
+Running Exp19_Test_Case_ii_Pin_100_W_Prad_90_W.m
+Total efficiency       = 90.00 %
+Efficiency in dB       = -0.46 dB
+Power lost             = 10.00 W (10.00 %)
+
+RUN_STATUS: PASS
