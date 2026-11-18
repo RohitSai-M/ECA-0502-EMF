@@ -1,0 +1,9 @@
+MATLAB R2024b result capture
+Exp17 Test Case ii f 2 4 GHz A 0 01 m 2 efficiency 0 7
+
+Running Exp17_Test_Case_ii_f_2_4_GHz_A_0_01_m_2_efficiency_0_7.m
+Wavelength              = 0.1250 m
+Linear antenna gain     = 5.630
+Antenna gain            = 7.50 dBi
+
+RUN_STATUS: PASS

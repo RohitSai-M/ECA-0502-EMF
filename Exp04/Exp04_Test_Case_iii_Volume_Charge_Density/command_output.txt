@@ -1,0 +1,9 @@
+MATLAB R2024b result capture
+Exp04 Test Case iii Volume Charge Density
+
+Running Exp04_Test_Case_iii_Volume_Charge_Density.m
+Volume charge density (C/m^3) = 
+   5.9683e-07
+
+
+RUN_STATUS: PASS

@@ -1,0 +1,10 @@
+MATLAB R2024b result capture
+Exp10 Case 1 Identical Magnetic Media
+
+Running Exp10_Case_1_Identical_Magnetic_Media.m
+Magnetic field intensity in medium 1 = 10 A/m
+Magnetic field intensity in medium 2 = 10 A/m
+Magnetic flux density in medium 1 = 1.2566e-05 T
+Magnetic flux density in medium 2 = 1.2566e-05 T
+
+RUN_STATUS: PASS

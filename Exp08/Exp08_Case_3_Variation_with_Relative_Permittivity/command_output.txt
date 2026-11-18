@@ -1,0 +1,7 @@
+MATLAB R2024b result capture
+Exp08 Case 3 Variation with Relative Permittivity
+
+Running Exp08_Case_3_Variation_with_Relative_Permittivity.m
+C' for a = 1 mm, b = 10 mm, er = 2.5 : 60.40 pF/m
+
+RUN_STATUS: PASS

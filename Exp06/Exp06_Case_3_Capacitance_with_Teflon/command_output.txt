@@ -1,0 +1,7 @@
+MATLAB R2024b result capture
+Exp06 Case 3 Capacitance with Teflon
+
+Running Exp06_Case_3_Capacitance_with_Teflon.m
+Capacitance varies from 1.7708 pF to 2.2135 pF
+
+RUN_STATUS: PASS

@@ -1,0 +1,8 @@
+MATLAB R2024b result capture
+Exp07 Case 3 Two Dielectric Regions
+
+Running Exp07_Case_3_Two_Dielectric_Regions.m
+Minimum capacitance = 27.816 pF (er1 = er2 = 1)
+Maximum capacitance = 139.078 pF (er1 = er2 = 5)
+
+RUN_STATUS: PASS

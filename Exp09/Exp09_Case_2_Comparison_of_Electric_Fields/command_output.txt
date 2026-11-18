@@ -1,0 +1,9 @@
+MATLAB R2024b result capture
+Exp09 Case 2 Comparison of Electric Fields
+
+Running Exp09_Case_2_Comparison_of_Electric_Fields.m
+Relative permittivity values =
+    2.0000    2.5000    2.0000
+
+
+RUN_STATUS: PASS

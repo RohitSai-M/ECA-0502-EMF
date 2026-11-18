@@ -1,0 +1,7 @@
+MATLAB R2024b result capture
+Exp09 Case 1 Relative Permittivity from Angles
+
+Running Exp09_Case_1_Relative_Permittivity_from_Angles.m
+Relative permittivity of medium 2 = 2.1470
+
+RUN_STATUS: PASS

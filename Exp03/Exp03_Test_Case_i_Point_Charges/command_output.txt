@@ -1,0 +1,9 @@
+MATLAB R2024b result capture
+Exp03 Test Case i Point Charges
+
+Running Exp03_Test_Case_i_Point_Charges.m
+Magnitude of electrostatic force (N) = 
+    5.3926
+
+
+RUN_STATUS: PASS

@@ -1,0 +1,9 @@
+MATLAB R2024b result capture
+Exp03 Test Case ii Parallel Conductors
+
+Running Exp03_Test_Case_ii_Parallel_Conductors.m
+Magnetic force per unit length (N/m) = 
+   1.0000e-04
+
+
+RUN_STATUS: PASS

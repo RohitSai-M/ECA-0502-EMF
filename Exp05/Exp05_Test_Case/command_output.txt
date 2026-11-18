@@ -1,0 +1,17 @@
+MATLAB R2024b result capture
+Exp05 Test Case
+
+Running Exp05_Test_Case.m
+Enter coordinates of Point 1
+Enter coordinates of Point 2
+Potential at Point 1 (V) = 
+   4.3597e+07
+
+Potential at Point 2 (V) = 
+   2.4480e+06
+
+Potential difference V1 - V2 (V) = 
+   4.1149e+07
+
+
+RUN_STATUS: PASS

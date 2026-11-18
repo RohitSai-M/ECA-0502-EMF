@@ -1,0 +1,9 @@
+MATLAB R2024b result capture
+Exp04 Test Case ii Surface Charge Density
+
+Running Exp04_Test_Case_ii_Surface_Charge_Density.m
+Surface charge density (C/m^2) = 
+   1.2732e-05
+
+
+RUN_STATUS: PASS

@@ -1,0 +1,8 @@
+MATLAB R2024b result capture
+Exp16 Case 3 Beam Steering
+
+Progressive phase beta = -2.7207 rad
+Main beam found at theta = 30.0 degrees
+[Warning: MATLAB has disabled some advanced graphics rendering features by switching to software OpenGL. For more information, click <a href="matlab:opengl('problems')">here</a>.] 
+
+RUN_STATUS: PASS

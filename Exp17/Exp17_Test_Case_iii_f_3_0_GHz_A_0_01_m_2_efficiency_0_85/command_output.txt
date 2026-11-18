@@ -1,0 +1,9 @@
+MATLAB R2024b result capture
+Exp17 Test Case iii f 3 0 GHz A 0 01 m 2 efficiency 0 85
+
+Running Exp17_Test_Case_iii_f_3_0_GHz_A_0_01_m_2_efficiency_0_85.m
+Wavelength              = 0.1000 m
+Linear antenna gain     = 10.681
+Antenna gain            = 10.29 dBi
+
+RUN_STATUS: PASS

@@ -1,0 +1,9 @@
+MATLAB R2024b result capture
+Exp04 Test Case i Linear Charge Density
+
+Running Exp04_Test_Case_i_Linear_Charge_Density.m
+Linear charge density (C/m) = 
+   5.0000e-06
+
+
+RUN_STATUS: PASS

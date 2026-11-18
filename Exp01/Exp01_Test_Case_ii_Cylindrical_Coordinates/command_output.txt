@@ -1,0 +1,12 @@
+MATLAB R2024b result capture
+Exp01 Test Case ii Cylindrical Coordinates
+
+Running Exp01_Test_Case_ii_Cylindrical_Coordinates.m
+Cartesian coordinates [x y z] = 
+    9.6593    2.5882   20.0000
+
+Spherical coordinates [r theta phi] = 
+   22.3607   26.5651   15.0000
+
+
+RUN_STATUS: PASS

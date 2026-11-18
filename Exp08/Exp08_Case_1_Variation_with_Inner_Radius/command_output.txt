@@ -1,0 +1,7 @@
+MATLAB R2024b result capture
+Exp08 Case 1 Variation with Inner Radius
+
+Running Exp08_Case_1_Variation_with_Inner_Radius.m
+C' for a = 1 mm, b = 10 mm, er = 2.5 : 60.40 pF/m
+
+RUN_STATUS: PASS

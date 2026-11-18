@@ -1,0 +1,10 @@
+MATLAB R2024b result capture
+Exp10 Case 3 Relative Permeabilities 0 3 and 2
+
+Running Exp10_Case_3_Relative_Permeabilities_0_3_and_2.m
+Magnetic field intensity in medium 1 = 10 A/m
+Magnetic field intensity in medium 2 = 1.5 A/m
+Magnetic flux density in medium 1 = 3.7699e-06 T
+Magnetic flux density in medium 2 = 3.7699e-06 T
+
+RUN_STATUS: PASS

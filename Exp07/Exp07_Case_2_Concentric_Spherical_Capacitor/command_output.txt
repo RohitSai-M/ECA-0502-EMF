@@ -1,0 +1,7 @@
+MATLAB R2024b result capture
+Exp07 Case 2 Concentric Spherical Capacitor
+
+Running Exp07_Case_2_Concentric_Spherical_Capacitor.m
+Capacitance for R1 = 0.05 m, R2 = 0.15 m, er = 1 : 8.345 pF
+
+RUN_STATUS: PASS

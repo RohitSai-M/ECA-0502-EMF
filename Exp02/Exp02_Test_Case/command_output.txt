@@ -1,0 +1,12 @@
+MATLAB R2024b result capture
+Exp02 Test Case
+
+Running Exp02_Test_Case.m
+Electric field intensity E (V/m) = 
+   4.4939e+15
+
+Electric flux density D (C/m^2) = 
+   3.9789e+04
+
+
+RUN_STATUS: PASS

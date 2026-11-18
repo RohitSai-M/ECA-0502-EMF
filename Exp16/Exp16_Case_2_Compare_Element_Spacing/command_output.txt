@@ -1,0 +1,6 @@
+MATLAB R2024b result capture
+Exp16 Case 2 Compare Element Spacing
+
+lambda = 0.1250 m
+
+RUN_STATUS: PASS

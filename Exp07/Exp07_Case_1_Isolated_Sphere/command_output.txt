@@ -1,0 +1,7 @@
+MATLAB R2024b result capture
+Exp07 Case 1 Isolated Sphere
+
+Running Exp07_Case_1_Isolated_Sphere.m
+Capacitance for R = 0.05 m, er = 1 : 5.563 pF
+
+RUN_STATUS: PASS

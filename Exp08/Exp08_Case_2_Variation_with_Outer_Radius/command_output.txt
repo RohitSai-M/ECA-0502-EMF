@@ -1,0 +1,7 @@
+MATLAB R2024b result capture
+Exp08 Case 2 Variation with Outer Radius
+
+Running Exp08_Case_2_Variation_with_Outer_Radius.m
+C' for a = 1 mm, b = 10 mm, er = 3 : 72.48 pF/m
+
+RUN_STATUS: PASS

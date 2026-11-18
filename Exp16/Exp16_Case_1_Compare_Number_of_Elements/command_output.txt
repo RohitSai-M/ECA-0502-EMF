@@ -1,0 +1,6 @@
+MATLAB R2024b result capture
+Exp16 Case 1 Compare Number of Elements
+
+lambda = 0.03 m, d = 0.015 m
+
+RUN_STATUS: PASS

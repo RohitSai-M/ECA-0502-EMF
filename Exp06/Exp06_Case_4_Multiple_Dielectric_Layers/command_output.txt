@@ -1,0 +1,7 @@
+MATLAB R2024b result capture
+Exp06 Case 4 Multiple Dielectric Layers
+
+Running Exp06_Case_4_Multiple_Dielectric_Layers.m
+Capacitance of multilayer dielectric capacitor = 3.8415e-12 F
+
+RUN_STATUS: PASS
